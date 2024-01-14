@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca4a4103-4fa5-47ea-92e4-53225e4ebc0e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2ZMXnqSFTQdOfzo1dRm6tOmSzu3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="TestNG.WebDriverWaitTest.webdriverwait_test">
+    <configuration name="DragAndDropPractice.guru99_drag_and_drop_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium.project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day7_8_9_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_8_9_10" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_8_9_10.DragAndDropPractice" />
+      <option name="METHOD_NAME" value="guru99_drag_and_drop_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Guru99UploadPtactice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium.project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day7_8_9_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day7_8_9_10" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day7_8_9_10.Guru99UploadPtactice" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryLoginTest.required_field_error_message_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium.project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day11_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day11_12" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day11_12.LibraryLoginTest" />
+      <option name="METHOD_NAME" value="required_field_error_message_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POM_PracticePageLoginTest.practicePageLoginTestWithPOM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium.project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.shorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.shorts" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.shorts.POM_PracticePageLoginTest" />
+      <option name="METHOD_NAME" value="practicePageLoginTestWithPOM" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverWaitTest.webdriverwait_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium.project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day11_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day11_12" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day11_12.WebDriverWaitTest" />
+      <option name="METHOD_NAME" value="webdriverwait_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.WebDriverWaitTest.webdriverwait_test" />
+        <item itemvalue="TestNG.LibraryLoginTest.required_field_error_message_test" />
+        <item itemvalue="TestNG.POM_PracticePageLoginTest.practicePageLoginTestWithPOM" />
+        <item itemvalue="TestNG.DragAndDropPractice.guru99_drag_and_drop_test" />
+        <item itemvalue="TestNG.Guru99UploadPtactice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca4a4103-4fa5-47ea-92e4-53225e4ebc0e" name="Changes" comment="" />
+      <created>1702233095665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702233095665</updated>
+      <workItem from="1702233102982" duration="1082000" />
+      <workItem from="1702259490692" duration="3069000" />
+      <workItem from="1702591194207" duration="5636000" />
+      <workItem from="1702824037073" duration="77000" />
+      <workItem from="1702824491034" duration="31368000" />
+      <workItem from="1704407498113" duration="15998000" />
+      <workItem from="1704669657710" duration="598000" />
+      <workItem from="1704840814802" duration="162000" />
+      <workItem from="1704845108473" duration="13000" />
+      <workItem from="1704851533213" duration="2773000" />
+      <workItem from="1705165611396" duration="7727000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
